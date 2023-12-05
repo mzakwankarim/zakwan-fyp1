@@ -6,7 +6,7 @@
 
 3. Fyi, this is a project from 2021. If any file or steps gives you errors, please let me know.
 
-4. Contact me at mzakwangmail@gmail.com
+4. Contact me at mzakwankarim@gmail.com
 
 5. I hope I can help everyone with this little project of mine.
 
